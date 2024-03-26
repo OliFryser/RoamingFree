@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "RoamingFree.sln"
+    "dotnet.defaultSolution": "RoamingFree.sln",
+    "FSharp.suggestGitignore": false
 }
